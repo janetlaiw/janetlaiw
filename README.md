@@ -49,8 +49,8 @@ When I’m not designing, I’m usually prototyping side projects — like a **R
 
 ## 🛠️ Tech & Tools  
 
-`Figma` · `React` · `Vite` · `Tailwind` · `Supabase`  
-`Cursor` · `Framer` · `Notion` · `Miro`  
+`Figma` · `Vite` · `Tailwind` · `Supabase`  
+`Cursor` · `Notion` · `Miro`  
 
 ---
 
