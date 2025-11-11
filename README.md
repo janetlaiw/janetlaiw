@@ -58,7 +58,6 @@ When I’m not designing, I’m usually prototyping side projects — like a **R
 ## 🌐 Portfolio & Contact  
 
 🎨 [**janetlai.com**](https://janetlai.com)  
-📄 [Resume (PDF)](https://janetlai.com/resume)  
 💌 [LinkedIn](https://linkedin.com/in/janetlaiw)  
 
 ---
