@@ -11,7 +11,7 @@ My work lives at the intersection of **product design, behavior, and systems thi
 
 I’m currently a **Staff Product Designer at LinkedIn**, focused on building frameworks that guide safer, more transparent member experiences.  
 Beyond my core role, I’m passionate about designing for **emerging AI systems** and exploring how data tools shape understanding at scale. \
-When I’m not designing, I’m usually prototyping side projects — like a **React dashboard that visualizes Oura data + moon phases**, or shaping clay in a ceramics studio in Los Angeles.
+When I’m not designing, I’m usually prototyping side projects — like a **Dashboard that visualizes Oura data + moon phases**, or shaping clay in a ceramics studio in Los Angeles.
 
 ---
 
@@ -19,22 +19,23 @@ When I’m not designing, I’m usually prototyping side projects — like a **R
 
 ### 🧩 Trust & Safety Frameworks  
 *Created a unified system of interventions for LinkedIn.com, ensuring consistent and contextual experiences across the platform.*  
-**→ Guide / Warn / Limit / Restrict Framework**  
+**→ Intervention Framework**  
 - Defined shared taxonomy and UI standards  
 - Introduced scalable enforcement components  
 - Mapped user journeys across multiple violation types  
 
 ### 📊 Instructor Analytics  
-*Redesigned LinkedIn Learning’s instructor analytics experience to improve trust, speed, and clarity of insights.*  
+*Redesigned LinkedIn Learning’s instructor analytics experience to improve clarity of insights.*  
 - Modernized the information architecture  
 - Defined patterns for contextual data visualization  
 - Introduced a scalable content model for future data types  
 
 ### ⚙️ Internal Tooling & Data Workflows  
-*Designed search and review tooling for content and policy teams, improving accuracy and task completion time.*  
+*Designed search and review tooling for teams, improving accuracy and task completion time.*  
 - Introduced dedicated search flows and validation states  
 - Measured impact through completion time and accuracy  
-- Used progressive disclosure to reduce complexity  
+- Used progressive disclosure to reduce complexity
+- Created UI and email systems 
 
 ---
 
