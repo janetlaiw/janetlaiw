@@ -11,7 +11,7 @@ My work lives at the intersection of **product design, behavior, and systems thi
 
 I’m currently a **Staff Product Designer at LinkedIn**, focused on building frameworks that guide safer, more transparent member experiences.  
 Beyond my core role, I’m passionate about designing for **emerging AI systems** and exploring how data tools shape understanding at scale. \
-When I’m not designing, I’m usually prototyping side projects — like a **Dashboard that visualizes my own Oura data combined with my environment and routines**, or painting with watercolor in sunny Los Angeles.
+When I’m not designing, I’m usually prototyping side projects — like a **Dashboard that visualizes my own Oura data combined with my environment and routines**, **A designer's word guessing game**, or painting with watercolor in sunny Los Angeles.
 
 ---
 
